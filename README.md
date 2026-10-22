@@ -31,7 +31,7 @@ This project demonstrates linked lists, binary file handling, password generatio
 
 ---
 
-## 🚀 Build
+## 🚀 Build and Run
 
 ```bash
 gcc main.c menu.c password.c generator.c master.c -o main
